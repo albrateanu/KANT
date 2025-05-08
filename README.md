@@ -89,7 +89,7 @@ LOLv2 - [Google Drive](https://drive.google.com/file/d/1OMfP6Ks2QKJcru1wS2eP629P
 
 ## 3. Testing
 
-```
+```shell
 # LOL-v1
 python3 Enhancement/test_from_dataset.py --opt Options/KANT_LOLv1.yml --weights pretrained_model/KANT_LOLv1.pth --dataset LOLv1 --self_ensemble --GT_Mean
 
@@ -102,7 +102,7 @@ python3 Enhancement/test_from_dataset.py --opt Options/KANT_LOLv2S.yml --weights
 
 ## 4. Training
 
-```
+```shell
 # LOL-v1
 python3 basicsr/train.py --opt Options/KANT_LOLv1.yml
 
@@ -113,7 +113,7 @@ python3 basicsr/train.py --opt Options/KANT_LOLv2R.yml
 python3 basicsr/train.py --opt Options/KANT_LOLv2S.yml
 
 # Or, for distributed GPU training
-bash train_multigpu.sh Options/KANT_[LOLv1|LOLv2R|LOLv2S].yml [GPU_id] [port, e.g. 4321]
+bash train_multigpu.sh Options/KANT_[LOLv1 / LOLv2R / LOLv2S].yml [GPU_id] [port, e.g. 4321]
 # example:
 bash train_multigpu.sh Options/KANT_LOL_v2S.yml 0 4321 # to train on LOL-v2-synthetic on GPU 0
 ```
