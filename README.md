@@ -2,8 +2,6 @@
 
 <div align="center">
   
-![Logo](./figs/Logo.png)
-
 [![MDPI](https://img.shields.io/badge/MDPI-paper-blue)](https://www.mdpi.com/1424-8220/25/2/327)
 
 </div>
