@@ -4,6 +4,10 @@
   
 [![MDPI](https://img.shields.io/badge/MDPI-paper-blue)](https://www.mdpi.com/1424-8220/25/2/327)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/enhancing-low-light-images-with-kolmogorov/low-light-image-enhancement-on-lolv2)](https://paperswithcode.com/sota/low-light-image-enhancement-on-lolv2?p=enhancing-low-light-images-with-kolmogorov)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/enhancing-low-light-images-with-kolmogorov/low-light-image-enhancement-on-lolv2-1)](https://paperswithcode.com/sota/low-light-image-enhancement-on-lolv2-1?p=enhancing-low-light-images-with-kolmogorov)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/enhancing-low-light-images-with-kolmogorov/low-light-image-enhancement-on-lol)](https://paperswithcode.com/sota/low-light-image-enhancement-on-lol?p=enhancing-low-light-images-with-kolmogorov)
+
 </div>
 
 Setup details coming soon.
